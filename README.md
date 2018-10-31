@@ -1,6 +1,8 @@
 # How to bind image and text in the listview
 This example demonstrates how to display the image and text in the listview by binding them.
 
+See [How to bind image and text in the listview](https://www.syncfusion.com/kb/9636/how-to-bind-image-and-text-in-the-listview) for more details.
+
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
